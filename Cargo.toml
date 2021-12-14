@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "pong-logic",
+    "pong-server",
+    "pong-client",
+]
